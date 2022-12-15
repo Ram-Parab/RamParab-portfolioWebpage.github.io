@@ -102,7 +102,7 @@ main {
   text-align: center;
 }
 #image {
-  width: 273.83;
+  width: 273.83px;
 }
 
 /*animation-board*/
@@ -173,7 +173,7 @@ main {
   transition: width 500ms linear;
 }
 .codepen-window:hover {
-  width: 660px;
+  width: 600px;
 }
 
 .project-title {
