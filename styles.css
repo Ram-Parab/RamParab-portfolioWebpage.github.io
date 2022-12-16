@@ -239,7 +239,7 @@ main {
 /*welcome-section*/
   #welcome-section{
     flex-direction: column;
-    height: calc(85vh + 520px);
+    height: calc(85% + 520px);
     border-width: 0px 0px var(--border-width) 0px;
     border-style: solid;
     background-color: var(--color2);
